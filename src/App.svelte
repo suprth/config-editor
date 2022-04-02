@@ -12,7 +12,6 @@
 <style> 
 
 	.main-container {
-		background-color: #333;
 	}
 	.upload-option-container {
 		width: 100%;
@@ -23,6 +22,5 @@
 	}
 	.app-title {
 		text-align: center;
-		color: #f2f2f2;
 	}
 </style>
